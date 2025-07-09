@@ -27,7 +27,8 @@ Detects suspicious redirect URLs and phishing links based on keywords like “lo
 📦 Installation Command
 Run this command once before using the tool:
 ```
-pip install requests beautifulsoup4 dnspython colorama`
+pip install requests beautifulsoup4 dnspython colorama
+git clone https://github.com/Z-BL4CX-H4T/Shadow-Scan.git
 ```
 🚀 *How to Run*
 After dependencies are installed, run the script:
